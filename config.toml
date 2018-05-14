@@ -55,11 +55,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Daithí Ó Gliasáin"
-  role = "Director @ CPSK & Flux Foundation"
+  role = "Director @ CPKS & Flux Foundation"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "CSPK", url = "https://www.cspk.io/" }, { name = "Flux", url = "https://www.voteflux.org/" } ]
+  organizations = [ { name = "CPKS", url = "https://www.cpks.io/" }, { name = "Flux", url = "https://www.voteflux.org/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profilepic3.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
