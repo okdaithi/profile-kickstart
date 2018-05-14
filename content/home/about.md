@@ -31,5 +31,5 @@ weight = 5
 
 # Biography
 
-Daithí Ó Gliasáin is director at CSPK (security consultancy) & The Flux Foundation (educational NFP). His interests include encryption protocols, governance & decision models. 
+Daithí Ó Gliasáin is director at CPKS (infosec consultancy) & The Flux Foundation (educational NFP). His interests include governance, game theory, decision models, encryption protocols & sunsets.
 
