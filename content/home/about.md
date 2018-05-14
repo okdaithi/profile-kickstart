@@ -10,12 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Political Decision-Making",
-    "Artificial Intelligence",
-    "Key Security"
+    "Public Decision-Making",
+    "Private Key Security"
   ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Certified Bitcoin Professional (CBP)"
+  institution = "Cryto Currency Certification Consortium"
+  year = 2018
+
 [[education.courses]]
   course = "MSc in Communication Systems Theory"
   institution = "National University of Ireland, Galway"
@@ -31,5 +35,5 @@ weight = 5
 
 # Biography
 
-Daithí Ó Gliasáin is director at CPKS (infosec consultancy) & The Flux Foundation (educational NFP). His interests include governance, game theory, decision models, encryption protocols & sunsets.
+Daithí Ó Gliasáin is director at CPKS (InfoSec consultancy) & The Flux Foundation (educational NFP). His interests include governance, game theory, decision models, encryption protocols, shiraz, sunsets & yoga.
 
