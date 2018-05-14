@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "CSPK", url = "www.cspk.io" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profilepic.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profilepic2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "daithi.ogliasain@protonmail.com"
   address = ""
   office_hours = ""
