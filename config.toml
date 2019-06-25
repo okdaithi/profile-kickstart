@@ -10,7 +10,7 @@ title = "Daithí Ó Gliasáin"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Daithí Ó Gliasáin"
-  role = "Director @ CPKS & Flux Foundation"
+  role = "Director @ CPKS & The Flux Foundation"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -236,12 +236,17 @@ enableGitInfo = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/daithiog"
+    link = "//au.linkedin.com/in/daithiog"
 
    [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/okdaithi"
+
+   [[params.social]]
+    icon = "pen-square"
+    icon_pack = "fa"
+    link = "//itsoktochangeyourmind.com"
 
 
 # Navigation Links
